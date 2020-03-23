@@ -1,5 +1,7 @@
 #include"Functions.h"
-#include"Functions.cpp"
+#include"FillRand.cpp"
+#include"Print.cpp"
+#include"Sort.cpp"
 
 void main()
 {
