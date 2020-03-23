@@ -17,7 +17,6 @@ void main()
 	Sort(brr, m);
 	Print(brr, m);
 
-
 	int A[ROWS][COLS];
 	FillRand(A, ROWS, COLS);
 	Print(A, ROWS, COLS);
